@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Poppins:ital,wght@0,200;0,300;0,600;1,200&family=Roboto:ital,wght@0,300;0,700;1,300;1,500&display=swap');
+
+.container_home{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cards_home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.header_home{
+    font-family: 'Roboto', sans-serif;
+    /* margin-left: 850px; */
+    justify-content: center;
+    font-size: large;
+    display: flex;
+}
+
+.card_home{
+    margin-right: 30px;
+    margin-left: 30px;
+   
+}
+
+.card{
+    height: 350px;
+}

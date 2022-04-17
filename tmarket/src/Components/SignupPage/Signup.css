@@ -1,0 +1,109 @@
+.container{
+    /* width: 2006px; */
+    /* height: 890px; */
+    
+}
+
+.cardbox-signup{
+    display: flex;
+    flex-direction: row-reverse;
+    /* border: 3px solid black; */
+    height: 100vh !important;
+}
+.css-1tb7noz-MuiPaper-root-MuiCard-root{
+    height: 100vh !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+}
+.Signup{
+    margin-top: 30px !important;
+    font-weight: 600 !important;
+    margin-left: 14% !important;
+    text-align: left !important;
+}
+
+.increase-sign{
+    margin-top: 1%;
+    margin-left: 50%;
+}
+
+.description{
+    font-size: x-large !important;
+    margin-left: 14% !important;
+    text-align: left !important;
+}
+
+.margin{
+    margin-top: 30px !important;
+}
+
+.leftside-signup{
+  
+     /* width: 30%; */
+     /* height: 890px;
+     margin-left: 30px; */
+     /* background-color: #1976D2; */
+     /* text-align: center; */
+    width: 70%;
+    height: 890px;
+    
+    /* text-align: center; */
+    margin-left: 50px;
+    overflow-x: auto;
+    margin-top: 5%;
+ 
+ }
+
+.rightsideimg-signup{
+    width: 100%;
+    height: 890px;
+}
+
+.rightsideimgtag{
+    /* object-fit:cover ; */
+    width: 100%;
+    height: 890px;
+    
+}
+.imageConatiner{
+    /* border: 1px solid green; */
+    height: 100vh !important;
+    display: flex;
+    width: 50%;
+
+    
+}
+
+.display-block{
+    display: block;
+    width: 80%;
+    display: flex;
+}
+.css-1ga5tyb-MuiTypography-root{
+    margin-left: 2% !important;
+}
+.css-kz9dsu-MuiTypography-root{
+    margin-left: 2% !important;
+
+}
+.increase-margin{
+    margin-top: 10px !important;
+    height: 45px;
+    
+}
+
+.login{
+    margin-left: 20px !important;
+}
+.increase-width{
+    width: 85%;
+}
+/* .forgot{
+    margin-right: 50px;
+} */
+.button-placement-signup{
+    margin-top: 3% !important;
+    margin-left: 14.5% !important;
+    width: 78.5% !important;
+    height: 45px;
+}

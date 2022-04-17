@@ -1,0 +1,29 @@
+.cardclass_viewcampaigns{
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.create-campaign{
+    margin-left: 50px !important;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px !important;
+    height: 45px !important;
+}
+.align-right-campaign{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 6%;
+    height: 50px;
+    align-items: center;
+}
+.search-campaign{
+    width: 77.5%;
+    justify-content: flex-start !important;
+}
+
+.header{
+    margin-left: 7.5%;
+    color: #1976D2 ;
+    font-size: xl;
+}

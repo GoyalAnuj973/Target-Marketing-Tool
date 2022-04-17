@@ -1,0 +1,22 @@
+
+.header-container{
+    display: flex;
+    width: 100%;
+}
+.logout{
+    cursor: pointer;
+    
+    margin-left: 4% !important;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.username{
+    margin-left: 74% !important;
+    padding-right: 2% !important;
+    border-right: 1px solid black;
+   
+}
+
+.logo{
+    margin-bottom: 0%;
+}

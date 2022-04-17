@@ -1,0 +1,12 @@
+.container_campaignhome{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;    
+}
+
+.card_campaignhome{
+    margin-top: 20px;
+    width: 40%;
+    
+}
+

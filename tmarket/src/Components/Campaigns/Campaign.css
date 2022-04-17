@@ -1,0 +1,37 @@
+.container-campaign{
+    /* height: 100%;
+    width: 100%; */
+    /* border: 1px solid black; */
+    padding: 30px;
+    margin-left: 50px;
+    width: 100%;
+    
+}
+
+.set-width{
+    width: 45%;
+}
+
+.message:focus{
+        outline: none !important;
+        border-color: #719ECE;
+        font-family: sans-serif;
+        font-weight: lighter;
+}
+
+.message{
+    font-family: sans-serif;
+    padding: 10px;
+    font-weight: lighter;
+    opacity: 0.67;
+}
+
+.message::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+    opacity: 1; /* Firefox */
+    color: grey;
+    padding-block-start: 10% !important;
+  }
+.set-margin{
+  margin-top: 20px;
+}
